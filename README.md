@@ -52,7 +52,7 @@ Transformar teoria, matemática pura e dezenas de bibliotecas Python num ecossis
 
 Sempre em busca de otimização de execução, redução de latência e modelos preditivos mais robustos. Se alguém da área quantitativa, engenharia de dados ou instituições financeiras quiser trocar ideias sobre **arquiteturas orientadas a eventos** ou **otimização de tensores**, a caixa de mensagens está sempre aberta! ☕💻
 
-**Wesley (Senhor Stone)**
+**Wesley (Stone)**
 *Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend & Quant*
 * **LinkedIn:** [Acesse o meu Perfil](www.linkedin.com/in/wesley-fernandes-html)
 * **Email:** [Wesleyffrr47@gmail.com]
