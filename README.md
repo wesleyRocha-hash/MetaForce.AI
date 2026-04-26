@@ -25,7 +25,8 @@ Embora a base de código seja fechada, o sistema opera sob rigorosa monitorizaç
 ### 1. O Motor em Ação (Logs de Execução)
 *Nesta secção, observamos o sistema de Raio-X (OBI) filtrando entradas perigosas e a confirmação do Fine-Tuning noturno do PyTorch.*
 <img width="1350" height="609" alt="Captura de tela 2026-04-25 214213" src="https://github.com/user-attachments/assets/24a3bf52-d3ec-444e-aa53-d23a9e416857" />
-<img width="1309" height="668" alt="Captura de tela 2026-04-25 214110" src="https://github.com/user-attachments/assets/73d4336c-3f08-4283-bc86-7d5eb2194578" />
+<img width="1321" height="663" alt="image" src="https://github.com/user-attachments/assets/382c9514-19b8-4c25-8d59-26be6234d001" />
+
 
 ### 2. Telemetria e Relatórios (Integração Telegram)
 *O MetaForce não exige que o operador olhe para gráficos. Toda a gestão, alertas macroeconômicos e relatórios de fecho de mercado são processados via interface assíncrona do Telegram Bot.*
