@@ -23,7 +23,7 @@ A inteligência do MetaForce baseia-se num funil de decisão multicamadas:
 Embora a base de código seja fechada, o sistema opera sob rigorosa monitorização remota. Abaixo, exemplos da infraestrutura em ação:
 
 ### 1. O Motor em Ação (Logs de Execução)
-*Nesta secção, observamos o sistema de Raio-X (OBI) filtrando entradas perigosas e a confirmação do Fine-Tuning noturno do PyTorch.*
+*Nesta secção, observamos o sistema de Raio-X (OBI) filtrando entradas perigosas.*
 <img width="1350" height="609" alt="Captura de tela 2026-04-25 214213" src="https://github.com/user-attachments/assets/24a3bf52-d3ec-444e-aa53-d23a9e416857" />
 <img width="1321" height="663" alt="image" src="https://github.com/user-attachments/assets/382c9514-19b8-4c25-8d59-26be6234d001" />
 
