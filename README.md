@@ -48,7 +48,8 @@ Embora a base de código seja fechada, o sistema opera sob rigorosa monitorizaç
 
 ## 📞 Conexão e Networking
 
-Transformar teoria, matemática pura e dezenas de bibliotecas Python num ecossistema financeiro que opera de forma autônoma tem sido o desafio técnico mais recompensador da minha trajetória profissional como desenvolvedor de software.
+Transformar teoria, matemática pura e dezenas de bibliotecas Python num ecossistema financeiro que opera de forma autônoma tem sido o desafio técnico mais recompensador da minha trajetória profissional como desenvolvedor de software. 
+Esse projeto ainda está em desenvolvimento e aperfeicoamento.
 
 Sempre em busca de otimização de execução, redução de latência e modelos preditivos mais robustos. Se alguém da área quantitativa, engenharia de dados ou instituições financeiras quiser trocar ideias sobre **arquiteturas orientadas a eventos** ou **otimização de tensores**, a caixa de mensagens está sempre aberta! ☕💻
 
