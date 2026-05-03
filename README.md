@@ -31,6 +31,9 @@ Embora a base de código seja fechada, o sistema opera sob rigorosa monitorizaç
 ### 2. Telemetria e Relatórios (Integração Telegram)
 *O MetaForce não exige que o operador olhe para gráficos. Toda a gestão, alertas macroeconômicos e relatórios de fecho de mercado são processados via interface assíncrona do Telegram Bot.*
 <img width="720" height="1433" alt="image" src="https://github.com/user-attachments/assets/21522fb9-3cc6-413a-966e-2404f3e9a22b" />
+<img width="720" height="725" alt="IMG_20260503_140737" src="https://github.com/user-attachments/assets/799db0e3-e64a-4c1b-b8f6-9ebceed98654" />
+
+
 
 
 ---
